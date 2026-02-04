@@ -1,3 +1,3 @@
 #Final-project
 
-#This is my final project: A program that allows the user to edit, create, and delete a parties within a waitlist. A program that is an example and can be used for the real world.
+This is a final project from advanced programming: A program that allows users to create, edit, and delelte parties within a waitlist, demonstrating a real-world application in C++ for a resturant. 
